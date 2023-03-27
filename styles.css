@@ -107,3 +107,42 @@ a{
     text-align: right;
     font-size: 24px;
 }
+.fourth-draft{
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882f6;
+    padding: 30px 70px;
+    color: #e5e7eb;
+    font-size: 30px;
+    font-weight: 900;
+}
+.card .text2{
+    font-size: 20px;
+    font-weight: 100;
+}
+.sign-button{
+    background-color: #3882f6;
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    background-color: #3882f6;
+    border-radius: 12px;
+    color: white;
+    border: 2px solid white;
+}
+.footer{
+    text-align: center;
+    background-color: #1f2937;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
