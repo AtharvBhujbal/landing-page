@@ -1,6 +1,8 @@
 body{
     margin: 0px;
+    padding: 0px;
 }
+/* first Draft */
 .first-draft{
     padding-left: 200px;
     padding-right: 200px;
@@ -28,10 +30,6 @@ body{
     font-size: 18px;
     color: #e5e7eb;
     padding-bottom: 20px;
-}
-
-img {
-    width: 200px;
 }
 ul{
     font-size: 18px;
@@ -69,6 +67,7 @@ a{
 .draft1-img-container img{
     width: 500px;
 }
+/* Second Draft */
 .second-draft{
     text-align: center;
 }
@@ -86,9 +85,11 @@ a{
     gap: 50px;
 }
 .img-text-container img{
+    width: 200px;
     border: 5px solid #3882f6;
     border-radius: 10px;
 }
+/* Third Draft */
 .third-draft{
     padding-top: 100px;
     padding-bottom: 50px;
@@ -107,6 +108,7 @@ a{
     text-align: right;
     font-size: 24px;
 }
+/* Fourth Draft */
 .fourth-draft{
     margin-top: 100px;
     margin-left: 200px;
@@ -138,6 +140,7 @@ a{
     color: white;
     border: 2px solid white;
 }
+/* footer */
 .footer{
     text-align: center;
     background-color: #1f2937;
