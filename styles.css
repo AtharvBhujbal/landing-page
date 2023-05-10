@@ -1,11 +1,11 @@
 body{
-    margin: 0px;
-    padding: 0px;
+    margin: 0vh;
+    padding: 0vh;
 }
 /* first Draft */
 .first-draft{
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 20vh;
+    padding-right: 20vh;
     display: flex;
     flex-direction: column;
     background-color: #1f2937;
@@ -13,31 +13,31 @@ body{
 .header{
     display: flex;
     justify-content: space-between;
-    padding-bottom: 70px;
+    padding-bottom: 7vh;
 }
 .header .logo img{
-    padding-top: 30px;
-    width: 150px;
+    padding-top: 3vh;
+    width: 15vh;
     border-radius: 50%;
 }
 .heading{
-    font-size: 48px;
+    font-size: 5.8vh;
     color: #f9faf8;
     font-weight: bolder;
-    padding-bottom: 10px;
+    padding-bottom: 1vh;
 }
 .text-container .text{
-    font-size: 18px;
+    font-size: 1.8vh;
     color: #e5e7eb;
-    padding-bottom: 20px;
+    padding-bottom: 2vh;
 }
 ul{
-    font-size: 18px;
-    padding-top: 60px;
-    padding-right: 20px;
+    font-size: 1.8vh;
+    padding-top: 6vh;
+    padding-right: 2vh;
     list-style: none;
     display: flex;
-    gap: 50px;
+    gap: 5vh;
 
 }
 a{
@@ -46,105 +46,105 @@ a{
 }
 .formb{
     border: none;
-    width: 120px;
-    height: 40px;
-    font-size: 18px;
+    width: 12vh;
+    height: 4vh;
+    font-size: 1.8vh;
     font-weight: 600;
     text-align: center;
     background-color: #3882f6;
-    border-radius: 12px;
+    border-radius: 1.2vh;
 }
 .text-image-container{
     display: flex;
     justify-content: space-between;
-    padding-bottom: 100px;
+    padding-bottom: 10vh;
 }
 .text-container{
-    padding-top: 100px;
-    width: 460px;
+    padding-top: 10vh;
+    width: 46vh;
 }
 .draft1-img-container img{
-    width: 500px;
+    width: 50vh;
 }
 /* Second Draft */
 .second-draft{
     text-align: center;
 }
 .second-draft .heading{
-    padding-top: 30px;
-    font-size: 36px;
+    padding-top: 3vh;
+    font-size: 3.6vh;
     color: black;
     font-weight: bolder;
 }
 .draft2-img-container{
-    padding-top: 30px;
-    padding-bottom: 60px;
+    padding-top: 3vh;
+    padding-bottom: 6vh;
     display: flex;
     justify-content: center;
-    gap: 50px;
+    gap: 5vh;
 }
 .img-text-container img{
-    width: 200px;
-    border: 5px solid #3882f6;
-    border-radius: 10px;
+    width: 20vh;
+    border: .5vh solid #3882f6;
+    border-radius: 1vh;
 }
 /* Third Draft */
 .third-draft{
-    padding-top: 100px;
-    padding-bottom: 50px;
-    padding-left: 250px;
-    padding-right: 250px;
+    padding-top: 10vh;
+    padding-bottom: 5vh;
+    padding-left: 25vh;
+    padding-right: 25vh;
     text-align: center;
     background-color: #e5e7eb;
 }
 .quote{
-    font-size: 36px;
+    font-size: 3.6vh;
     font-style: italic;
     font-weight: lighter;
 }
 .author{
-    padding-top: 50px;
+    padding-top: 5vh;
     text-align: right;
-    font-size: 24px;
+    font-size: 2.4vh;
 }
 /* Fourth Draft */
 .fourth-draft{
-    margin-top: 100px;
-    margin-left: 200px;
-    margin-right: 200px;
-    margin-bottom: 100px;
+    margin-top: 10vh;
+    margin-left: 20vh;
+    margin-right: 20vh;
+    margin-bottom: 10vh;
 }
 .card{
     display: flex;
     justify-content: space-between;
     background-color: #3882f6;
-    padding: 30px 70px;
+    padding: 3vh 7vh;
     color: #e5e7eb;
-    font-size: 30px;
+    font-size: 3vh;
     font-weight: 900;
 }
 .card .text2{
-    font-size: 20px;
+    font-size: 2vh;
     font-weight: 100;
 }
 .sign-button{
     background-color: #3882f6;
-    width: 120px;
-    height: 40px;
-    font-size: 18px;
+    width: 12vh;
+    height: 4vh;
+    font-size: 1.8vh;
     font-weight: 600;
     text-align: center;
     background-color: #3882f6;
-    border-radius: 12px;
+    border-radius: 1.2vh;
     color: white;
-    border: 2px solid white;
+    border: .2vh solid white;
 }
 /* footer */
 .footer{
     text-align: center;
     background-color: #1f2937;
     color: white;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
 
 }
